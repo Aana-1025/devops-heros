@@ -1,8 +1,8 @@
-resource "aws_s3_bucket" "yatri1107" {
-  bucket        = var.bucket_name
+resource "aws_s3_bucket" "antara1025" {
+  bucket        = "antara1025"
   force_destroy = true
   tags = {
-    Name        = var.bucket_name
+    Name        = "antara1025"
     Environment = "dev"
     ManagedBy   = "Terraform"
     Project     = "Session18"
