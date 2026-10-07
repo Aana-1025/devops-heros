@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Student** | Antara Srivastva |
+| **Student** | Antara Utane |
 | **Enrollment No.** | 24BCS10106 |
 | **Session** | 14 - Kubernetes Troubleshooting |
 | **Cluster** | kind `kind-devops-heros` (1 control-plane + 2 workers, Kubernetes v1.37.0, CNI kindnet, metrics-server) |
